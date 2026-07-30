@@ -12,7 +12,7 @@ body{
 
 /* Encabezado */
 header{
-    background:#ffa8e9;
+    background:#000000;
     color:rgb(255, 255, 255);
     padding:50px;
     text-align:center;
@@ -71,7 +71,7 @@ nav a:hover{
 .vr-container h2{
     text-align:center;
     padding:20px;
-    background:#ff009d;
+    background:#ff40ff;
     color:white;
 }
 
@@ -104,7 +104,7 @@ a-scene{
 
 /* Footer */
 footer{
-    background:#0a192f;
+    background:#ff00c8;
     color:rgb(255, 255, 255);
     text-align:center;
     padding:20px;
@@ -123,7 +123,7 @@ body{
     width:fit-content;
     margin:20px auto;
     padding:10px 20px;
-    background:#000000;
+    background:#ff0095;
     border-radius:12px;
 }
 
@@ -139,7 +139,7 @@ body{
 }
 
 .tabs button:hover{
-    background:#000000;
+    background:#ff85e0;
 }
 
 #visor{
@@ -147,7 +147,7 @@ body{
     height:90vh;
     border:none;
     border-radius:10px;
-    box-shadow:0 0 15px rgba(0,0,0,0.2);
+    box-shadow:0 0 15px rgb(255, 144, 227);
     display:block;
     margin:auto;
 }
