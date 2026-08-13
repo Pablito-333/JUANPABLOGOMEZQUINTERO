@@ -91,7 +91,7 @@ a-scene{
 
 .card{
     width:300px;
-    background:white;
+    background:rgb(0, 0, 0);
     padding:20px;
     border-radius:10px;
     box-shadow:0 0 10px rgba(255, 255, 255, 0.1);
@@ -99,13 +99,13 @@ a-scene{
 
 .card h3{
     margin-bottom:10px;
-    color:#0a192f;
+    color:#ffffff;
 }
 
 /* Footer */
 footer{
     background:#ff00c8;
-    color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
     text-align:center;
     padding:20px;
     margin-top:40px;
@@ -131,7 +131,7 @@ body{
     padding:10px 40px;
     border:none;
     background:none;
-    color:white;
+    color:rgb(255, 255, 255);
     cursor:pointer;
     font-size:18px;
     border-radius:8px;
