@@ -12,7 +12,7 @@ body{
 
 /* Encabezado */
 header{
-    background:#ff00bf;
+    background:#0066ff;
     color:rgb(255, 255, 255);
     padding:50px;
     text-align:center;
@@ -24,7 +24,7 @@ header h1{
 
 /* Menú */
 nav{
-    background:#ff98e0;
+    background:#e252b7;
     padding:15px;
     text-align:center;
 }
